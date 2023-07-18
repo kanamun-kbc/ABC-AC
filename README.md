@@ -1,1 +1,1 @@
-AtCorder Beginner Contestにおける正解したコード
+AtCorder Beginner Contestにおける正解したソースコード、及び参考になったソースコードのトレース
